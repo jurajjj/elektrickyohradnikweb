@@ -124,10 +124,10 @@ hr {
 }
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
 	background-color: #fff;
-	border-color: #608dfd;
+	border-color: #155557;
 }
 .navbar-default .navbar-toggle:hover>.icon-bar {
-	background-color: #608dfd;
+	background-color: #155557;
 }
 .section-title {
 	margin-bottom: 70px;
@@ -347,7 +347,7 @@ header .intro-text {
 	text-align: center;
 	margin: 0 auto;
 	color: #fff;
-	background: linear-gradient(to right, rgba(99,114,255,0.8) 0%, rgba(92,169,251,0.8) 100%);
+	background: linear-gradient(to right,  #1C711F 0%, #249B27 100%);
 	padding: 30% 0 0 0;
 	height: 100%;
 	width: 100%;
@@ -555,7 +555,7 @@ color: #777;
 	transition: all 0.3s;
 }
 #contact .social i.fa:hover {
-	color: #608dfd;
+	color: #000000;
 	background: #fff;
 }
 /* Footer Section*/
@@ -568,10 +568,10 @@ color: #777;
 	font-size: 14px;
 }
 #footer a {
-	color: #608dfd;
+	color: #000000;
 }
 #footer a:hover {
-	border-bottom: 2px solid #608dfd;
+	border-bottom: 2px solid #000000;
 }
 
 @media (max-width: 768px) {
